@@ -4,7 +4,7 @@ A webgl experiment to simulate 3d lines with very little math from a simple quad
 
 # State
 
-Currently it is not working well
+Currently it is not working well, i'm doing some tests
 
 # Running Locally
 
