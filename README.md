@@ -2,8 +2,14 @@
 
 A webgl experiment to simulate 3d lines with very little math from a simple quad
 
-# Requirements
+# State
 
-You must have PHP installed to run the experiment.
+Currently it is not working well
 
-The `run.bat` script works in any Windows version with php installed.
+# Running Locally
+
+This experiment needs a local web server serving the repository folder to run correctly.
+
+For windows, I recommend installing [PHP](http://google.com) so that you can run `run.bat` and not have to worry about it.
+
+For linux, just run the PHP local webserver locally: `php -S localhost:8080 .`
